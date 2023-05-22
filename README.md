@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 
 # <div align="justify">:star2: "Code is a language that empowers us to communicate with anyone, anywhere in the world, regardless of gender, race, or creed." - [Reshma Saujani](https://reshmasaujani.com/about/), founder of Girls Who Code.</div>
 
-## I’m currently working on the ["Vinyl_Collection_Project"](https://github.com/VannaLZ/Vinyl_Collection_Project)
+<br>
+
+<img align="left" width="120" src="https://github.com/VannaLZ/Images/blob/main/Vinyl_Image_1.png" />
+
+## :hammer_and_wrench::rocket::construction_worker:   I am currently working on the ["Vinyl_Collection_Project"](https://github.com/VannaLZ/Vinyl_Collection_Project)
 
 ### Introduction
 <div align="justify">I'm on the road to data exploration, and while I'm still gathering info, I've already started to rock some formulas and do a little <b>'Bohemian Rhapsody'</b> with some exploratory data analysis (EDA). It's early days, and my README isn't quite <b>'Under Pressure'</b> yet, but I'm jamming on this project like <b>'Another One Bites the Dust'</b>.</div>
@@ -28,9 +32,3 @@ Here are some ideas to get you started:
 
 ### Conclusion
 <div align="justify"><b>'The Show Must Go On'</b>, and I'm excited to see where this journey takes me!</div>
-
-
-
-
-
-
