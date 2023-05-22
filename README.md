@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 ### Introduction
 <div align="justify">I'm on the road to data exploration, and while I'm still gathering info, I've already started to rock some formulas and do a little <b>'Bohemian Rhapsody'</b> with some exploratory data analysis (EDA). It's early days, and my README isn't quite <b>'Under Pressure'</b> yet, but I'm jamming on this project like <b>'Another One Bites the Dust'</b>.</div>
   
-  <img align="right" img src="https://media.giphy.com/media/2Lp9c7ohssqPbAW6bg/giphy.gif" width="100" >
+
 
 ### Goals
 <div align="justify">One idea I have is to create a Tableau page that's as visually stunning as <b>'Radio Ga Ga'</b>, but I know that the journey ahead is full of challenges that I'm ready to face like a true champion with <b>'We Will Rock You'</b> spirit.</div>
-
+  <img align="right" img src="https://media.giphy.com/media/2Lp9c7ohssqPbAW6bg/giphy.gif" width="50" >
 ### Conclusion
 <div align="justify"><b>'The Show Must Go On'</b>, and I'm excited to see where this journey takes me!</div>
