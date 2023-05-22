@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ### Goals
 <div align="justify">One idea I have is to create a Tableau page that's as visually stunning as <b>'Radio Ga Ga'</b>, but I know that the journey ahead is full of challenges that I'm ready to face like a true champion with <b>'We Will Rock You'</b> spirit.</div>
   
-  <img align="right" img src="https://media.giphy.com/media/2Lp9c7ohssqPbAW6bg/giphy.gif" width="30" >
+  
 
 ### Conclusion
 <div align="justify"><b>'The Show Must Go On'</b>, and I'm excited to see where this journey takes me!</div>
